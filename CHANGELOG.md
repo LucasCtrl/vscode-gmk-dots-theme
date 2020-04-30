@@ -4,5 +4,8 @@ All notable changes to the "GMK-Dots" extension will be documented in this file.
 
 Check [Keep a Changelog](https://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.1] - 2020-04-30
+- Enhance the README.md
+
 ## [1.0.0] - 2020-04-30
 - Initial release

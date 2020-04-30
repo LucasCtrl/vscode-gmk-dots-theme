@@ -2,11 +2,11 @@
     "name": "gmk-dots",
     "displayName": "GMK Dots",
     "description": "A VSCode theme based on the GMK Dots keycaps set",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": "https://github.com/LucasCtrl/vscode-gmk-dots-theme",
     "author": "LucasCtrl <lucasalt@protonmail.com>",
     "license": "MIT",
-    "icon": "https://github.com/LucasCtrl/vscode-gmk-dots-theme/blob/master/images/logo.png",
+    "icon": "images/logo.png",
     "galleryBanner": {
         "color": "#191b25",
         "theme": "dark"

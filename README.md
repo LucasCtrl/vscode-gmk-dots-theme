@@ -7,8 +7,7 @@
 [![rating](https://img.shields.io/visual-studio-marketplace/stars/LucasAlt.gmk-dots?style=for-the-badge&logo=reverbnation&logoColor=fafafa&colorA=191b25&colorB=ff9552)](https://marketplace.visualstudio.com/items?itemName=LucasAlt.gmk-dots)
 
 # VSCode GMK Dots theme
-
-![](https://github.com/LucasCtrl/vscode-gmk-dots-theme/blob/master/images/screenshot.jpg)
+![](https://github.com/LucasCtrl/vscode-gmk-dots-theme/blob/1b09eec81389e1c4d6bc1b54e700d428f872b41c/images/screenshot.jpg)
 
 ## 🔧 Installation
 Install through VS Code extensions. Search for `GMK Dots `
@@ -28,7 +27,7 @@ Can also be installed in VS Code: Launch VS Code Quick Open (Ctrl+P), paste the 
 
 ## 🙏 Thanks
 
-* [**@briano1905**](https://github.com/briano1905) for the color theme
+* [biipmk](https://www.instagram.com/biipmk/) for the awesome color theme
 
 ## 🤝 Contributing
 
@@ -42,13 +41,7 @@ Can also be installed in VS Code: Launch VS Code Quick Open (Ctrl+P), paste the 
 
 Give a ⭐️ if you like this project!
 
-<a href="https://www.patreon.com/LucasAlt">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-<br />
-<a href='https://ko-fi.com/S6S21FLR2' target='_blank'>
-  <img width='160' style='border:0px;width:160px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-</a>
+[![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/lucasalt?via=lucasalt)
 
 ## 📝 License
 
